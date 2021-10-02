@@ -4,7 +4,7 @@ import java.lang.Exception;
 public class Queue
 {
 	int addPointer; //points to the position where new number is to be added.
-	int removePointer; //points tot position of the element, which is to be deleted. 
+	int removePointer; //points to position of the element, which is to be deleted. 
 	int sizeofQueue;   //number of elements in the queue.
 	int [] array;      //array to store values.
 
